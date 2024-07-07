@@ -10,3 +10,4 @@ You can edit this file by typing on a new line. Say hello. Pass encouraging word
 `Perfection isn't required... only progress. You can do this!`
 `Hello, Everyone! Glad to be on this journey with you.`
 This is Mily. It is very nice meeting you all!
+I am excited to learn web development and design. 
